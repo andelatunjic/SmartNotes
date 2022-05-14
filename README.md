@@ -10,4 +10,4 @@ The goal was to develop a computer application "SmartNotes" with several functio
 This was a group project, so I included code which only I have written.
 
 Used technologies:
-* C#, MSSQL
+* C#, MSSQL, Entity framework 
